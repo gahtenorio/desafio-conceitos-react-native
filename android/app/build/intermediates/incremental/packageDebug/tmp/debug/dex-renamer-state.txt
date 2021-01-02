@@ -1,0 +1,4 @@
+#Sat Jan 02 17:43:05 BRT 2021
+base.0=/hd/Projetos/GoStack/desafios/desafio-conceitos-react-native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
